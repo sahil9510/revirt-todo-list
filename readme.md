@@ -41,7 +41,8 @@ npm run build
  To run the backend on the localhost, do the following:
 
 1. 
-```
+```bash
+cd .\backend\
 npm install
 ```
 2. Make am env file
@@ -50,7 +51,7 @@ DB_URL =  // Insert the connect URL from MongoDB atlas page.
 ````
 
 3.
-```
+```bash
 npm start
 ```
 
