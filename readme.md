@@ -46,8 +46,13 @@ npm install
 ```
 2. Make am env file
 ```js
-DB_USER =  // Insert the connect URL from MongoDB atlas page.
+DB_URL =  // Insert the connect URL from MongoDB atlas page.
 ````
+
+3.
+```
+npm start
+```
 
 ## Model
 
