@@ -1,0 +1,25 @@
+.container{
+    margin-top: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    flex-direction: column;
+
+}
+
+.select{
+    margin-top: 10px;
+    width: 30%;
+    color: black;
+}
+
+@media (max-width:950px){
+    .container{
+        margin-top: 15%;
+    }
+
+    .select{
+        width: 100%;
+    }
+}

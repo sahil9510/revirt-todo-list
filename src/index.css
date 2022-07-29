@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  padding: 10vh 10vw;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background: #171717;
+  color: #ffffff;
+  font-family: 'Montserrat';
+  /* align-items: center;
+  justify-content: center; */
+}
+
+
+button{
+  font-family: 'Montserrat';
+
+
+  cursor: pointer;
+}
